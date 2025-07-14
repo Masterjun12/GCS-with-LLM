@@ -1,12 +1,7 @@
 # STT 비교분석
 
-Areas: 비즈니스 (https://www.notion.so/1923061d2a898195a121efd6c903e46e?pvs=21)
+
 Notebooks: DJI GCS project (https://www.notion.so/DJI-GCS-project-2303061d2a898058ae1fd7eb5cd3af01?pvs=21)
-보관함: No
-상태: 작성 중
-생성 일시: 2025년 7월 14일 오후 1:23
-즐겨찾기: No
-최종 편집 일시: 2025년 7월 14일 오후 1:48
 
 # **STT 음성인식 라이브러리 비교 실험 보고서**
 
